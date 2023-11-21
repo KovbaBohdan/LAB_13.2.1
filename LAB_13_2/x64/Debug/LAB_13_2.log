@@ -1,0 +1,5 @@
+﻿  lab_13.2.cpp
+C:\Student\LAB_13_2\LAB_13_2\lab_13.2.cpp(16,31): warning C4101: 'max': unreferenced local variable
+C:\Student\LAB_13_2\LAB_13_2\lab_13.2.cpp(16,23): warning C4101: 'y_cube': unreferenced local variable
+C:\Student\LAB_13_2\LAB_13_2\lab_13.2.cpp(16,36): warning C4101: 'max_sqr': unreferenced local variable
+  LAB_13_2.vcxproj -> C:\Student\LAB_13_2\x64\Debug\LAB_13_2.exe
